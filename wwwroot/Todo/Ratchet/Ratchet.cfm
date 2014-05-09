@@ -1,0 +1,19 @@
+<cfscript>
+</cfscript>
+
+<cfoutput>
+<cfinclude template="/Inc/Ratchet/html.cfm">
+<cfinclude template="/Inc/Ratchet/body.cfm">
+<p class="content-padded">Thanks for downloading Ratchet. This is an example HTML page that's linked up to compiled Ratchet CSS and JS, has the proper meta tags and the HTML structure. Need some more help before you start filling this with your own content? Check out some Ratchet resources:</p>
+<div class="card">
+	<ul class="table-view">
+		<li class="table-view-cell"> <a class="push-right" href="http://goratchet.com"> <strong>Ratchet documentation</strong> </a> </li>
+		<li class="table-view-cell"> <a class="push-right" href="https://github.com/twbs/ratchet/"> <strong>Ratchet on Github</strong> </a> </li>
+		<li class="table-view-cell"> <a class="push-right" href="https://groups.google.com/forum/##!forum/goratchet"> <strong>Ratchet Google group</strong> </a> </li>
+		<li class="table-view-cell"> <a class="push-right" href="https://twitter.com/goratchet"> <strong>Ratchet on Twitter</strong> </a> </li>
+	</ul>
+	<a href="Push.cfm">Push!</a>
+</div>
+<cfinclude template="/Inc/Ratchet/foot.cfm">
+<cfinclude template="/Inc/Ratchet/End.cfm">
+</cfoutput>

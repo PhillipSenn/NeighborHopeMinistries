@@ -1,0 +1,20 @@
+CACHE MANIFEST
+# 7
+
+//code.jquery.com/mobile/1.4.2/jquery.mobile.structure-1.4.2.css
+/Inc/jqm/html.css
+//cdn.PhillipSenn.com/jQuery/jQuery.1.9.1.js
+//cdn.PhillipSenn.com/jqm/foot.js
+//code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.js
+Todo.js
+Todo.css
+//cdn.phillipsenn.com/jqm/themes/images/ajax-loader.gif
+//cdn.phillipsenn.com/jqm/themes/default.theme.css
+//cdn.phillipsenn.com/jqm/themes/jquery.mobile.icons.min.css
+
+# jQuery Mobile Date Picker
+jquery.mobile.datepicker.css
+jquery.mobile.datepicker.js
+jquery.ui.datepicker.js
+
+//dl1d2m8ri9v3j.cloudfront.net/releases/1.2.4/tracker.js

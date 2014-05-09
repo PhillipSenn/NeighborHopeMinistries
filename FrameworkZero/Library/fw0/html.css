@@ -1,0 +1,51 @@
+@import url("/Library/Bootstrap3/dist/css/bootstrap.css");
+th.num, td.num {
+	text-align:right;
+}
+thead tr:first-child th {
+	white-space: nowrap;
+}
+th.num input {
+	float:right;
+	width:100px;
+	text-align:right;
+}
+p {
+	margin-top:1em;
+	margin-bottom:1em;
+}
+body, h1, h2, h3, h4, h5, h6 {
+	font-family:"Times New Roman", Times, serif;
+}
+th.fw0Sortable {
+	cursor:pointer;
+}
+span.fw0Unicode {
+	color:#2d6ca2;
+}
+span.fw0Unicode.locked {
+	color:#000000;
+}
+tr.fw0Hidden {
+	display:none;
+}
+
+#fw0Popup {
+	overflow:auto;
+	width:200px;
+	height:400px;
+	position:absolute;
+	background-color:#ffffff;
+	z-index:99;
+}
+#fw0Popup tr {
+	cursor:pointer;
+}
+#fw0Popup th:first-child {
+	min-width:40px;
+}
+/*
+th span.fw0Unicode:hover {
+	color:#d9534f;
+}
+*/

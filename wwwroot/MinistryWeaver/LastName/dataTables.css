@@ -1,0 +1,27 @@
+@import url("/Library/Bootstrap/dataTables/dataTables.css");
+.w75 {
+	float:left;
+	width:75px;
+	padding:0px;
+}
+.fl {
+	float:left;
+}
+.w100 {
+	width:300px;
+	float:right;
+}
+#fakeSearch {
+	width:203px;
+	float:right;
+}
+#fakePagination {
+	float:right;
+	width:450px;
+}
+.sort_asc {
+	background: url('/Library/Bootstrap/dataTables/images/sort_asc.png') no-repeat center right;
+}
+.sort_both {
+	background: url('/Library/Bootstrap/dataTables/images/sort_both.png') no-repeat center right;
+}

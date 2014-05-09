@@ -1,0 +1,1 @@
+We can't use //cdn.PhillipSenn.com any more because Neighbor Hope Ministries uses https.

@@ -1,0 +1,12 @@
+We can't use //cdn.PhillipSenn.com any more because Neighbor Hope Ministries uses https.
+THEREFORE, what I have to do is map /fw/ to a common area.
+And I don't think that making changes to /fw/ should be taken lightly, so it's ok if getting there
+on production is a little bit hard.
+
+c:\home\fw
+
+They way that you get there is to change NeighborHopeMinistries.com/fw and then remote to the vps and copy
+the changes up to c:\home\fw
+
+So NeighborHopeMinistries.com is your testing server.
+And dev.NeighborHopeMinistries.com is your dev server.

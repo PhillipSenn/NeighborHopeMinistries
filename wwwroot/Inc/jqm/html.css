@@ -1,0 +1,6 @@
+@import url('/fw/jqm/themes/default.theme.css');
+@import url('/fw/jqm/themes/jquery.mobile.icons.min.css');
+body {
+	font-family:"Times New Roman", Times, serif;
+	font-size:20px;
+}

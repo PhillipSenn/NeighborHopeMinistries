@@ -1,0 +1,1 @@
+$('header').attr('data-theme','b');

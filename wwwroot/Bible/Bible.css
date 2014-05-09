@@ -1,0 +1,12 @@
+#Specificity .ui-btn-active {
+	background-color:#ededed;
+	border-color:#dddddd;
+	color:#000;
+	text-shadow:none;
+}
+
+#Specificity .btn-primary {
+	background-color:#3388cc;
+	border-color:#1c4a70;
+	color:#fff;
+}

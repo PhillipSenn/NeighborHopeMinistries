@@ -1,0 +1,40 @@
+@import url('//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.0/css/bootstrap.min.css');
+@import url('//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.0/css/bootstrap-theme.min.css');
+table.cfdebug {
+	margin-left:1em;
+}
+.cfdebug {
+	font-size:20px !important;
+}
+
+body {
+	padding-top:85px;
+	font-family: "Times New Roman", serif;
+	font-size:20px;
+	margin-bottom:300px;
+}
+label {
+	display:block;
+}
+label:hover {
+	cursor:pointer;
+}
+
+.msg {
+	height:25px;
+	color:white;
+}
+h1 {
+	margin-top:0px;
+}
+td.monospace {
+	font-family:"Courier New", Courier, monospace;
+}
+.form-control {
+	font-size:20px;
+}
+/*
+th.num {
+	white-space: nowrap;
+}
+*/
